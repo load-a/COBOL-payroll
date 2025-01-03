@@ -1,0 +1,28 @@
+PAYROLL REPORT
+
+NAME                ID   HOURS RATE  GROSS-PAY
+
+Alice Johnson       96628  3700  2500 925.00
+Bob Smith           31929  4000  2200 880.00
+Carla Gomez         94239  3500  2400 840.00
+David Brown         55630  3300  2400 792.00
+Emily Davis         03322  3800  2300 874.00
+Frank Harris        11229  3300  2000 660.00
+Grace Miller        88806  3400  1900 646.00
+Henry Wilson        94724  3300  1700 561.00
+Isabella Moore      66701  3800  2000 760.00
+Jack Taylor         35578  3700  2400 888.00
+Karen Clark         98828  3500  2500 875.00
+Liam Hall           29634  3900  2200 858.00
+Megan Adams         91489  3700  1900 703.00
+Nathan Reed         68653  3800  1900 722.00
+Olivia Lewis        24950  3900  1900 741.00
+Peter White         79109  3200  2100 672.00
+Quinn Thompson      09788  3300  2400 792.00
+Rachel King         91539  3800  2400 912.00
+Samuel Wright       28467  3500  2000 700.00
+Tina Evans          20928  3700  1700 629.00
+
+TOTAL GROSS PAY:    15430.00
+TOTAL EMPLOYEES:   20
+AVERAGE GROSS PAY:      771.50
