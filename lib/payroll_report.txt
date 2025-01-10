@@ -1,0 +1,26 @@
+PAYROLL REPORT
+NAME                   ID  HOURS   RATE GROSS-PAY
+Adams, Megan        59643  40.00  20.00    800.00
+Brown, David        51687  34.00  18.00    612.00
+Clark, Karen        04271  38.00  17.00    646.00
+Davis, Emily        91208  32.00  17.00    544.00
+Evans, Tina         89374  36.00  18.00    648.00
+Gomez, Carla        44370  34.00  18.00    612.00
+Hall, Liam          93314  34.00  21.00    714.00
+Harris, Frank       26281  34.00  20.00    680.00
+Johnson, Alice      49488  36.00  18.00    648.00
+King, Rachel        00240  35.00  17.00    595.00
+Lewis, Olivia       85359  34.00  19.00    646.00
+Miller, Grace       28273  37.00  25.00    925.00
+Moore, Isabella     73382  40.00  25.00  1,000.00
+Reed, Nathan        43198  34.00  21.00    714.00
+Smith, Bob          50864  33.00  22.00    726.00
+Taylor, Jack        38897  36.00  21.00    756.00
+Thompson, Quinn     26856  34.00  23.00    782.00
+White, Peter        27114  40.00  25.00  1,000.00
+Wilson, Henry       87346  38.00  17.00    646.00
+Wright, Samuel      14591  37.00  22.00    814.00
+
+TOTAL GROSS PAY: 14,508.00
+TOTAL EMPLOYEES: 20,508.00
+AVERAGE GROSS PAY: 725.400
